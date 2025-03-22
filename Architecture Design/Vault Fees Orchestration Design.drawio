@@ -13,21 +13,6 @@
         <mxCell id="17ea667e15c223fc-8" value="Fee Calculator Service&lt;div&gt;(Computes transaction fees)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="219" y="255" width="141" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="17ea667e15c223fc-40" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="17ea667e15c223fc-10" target="17ea667e15c223fc-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="17ea667e15c223fc-10" value="OR" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="242" y="460" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="17ea667e15c223fc-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8" parent="1" source="17ea667e15c223fc-11" target="17ea667e15c223fc-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="17ea667e15c223fc-11" value="Reviews are to&amp;nbsp;&lt;div&gt;be combined&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="202" y="540" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="17ea667e15c223fc-12" value="Combine reviews" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="352" y="540" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="cMoWUm6GPoaCTaX2YTEq-3" value="vault data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="90" width="60" height="30" as="geometry" />
         </mxCell>
@@ -63,6 +48,9 @@
             <mxPoint x="360" y="300" as="sourcePoint" />
             <mxPoint x="470" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cMoWUm6GPoaCTaX2YTEq-17" value="store data&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="382" y="307" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
